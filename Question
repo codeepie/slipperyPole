@@ -1,0 +1,22 @@
+The skipparyPole
+Baba is partying hard and drinking hard drinks as his friend Vipul has won a big Coding Contest. 
+It has been several hours and now he is totally drunk. He is out of his senses and has started to climb a pole. The rest of the people are trying to get him down but his dazed mind is unable to react and he is therefore not listening to anyone. The pole is long and slippery. The drinks were super hard and the hangover is going to be for days. 
+Vipul is enjoying, laughing and observed that Baba slips down y metres in night and climbs x metres in day time.
+Now, he wants to know after how many days will Baba be at the top of the slippery pole, if the length of the pole is N metres. Since he is out too, you have to find the answer for him.
+Input Format
+The first line of input consist of number of test cases, T
+ Next T lines consists of three space separated integers x, y and N each.
+Constraints
+1<= T <=100
+ 1<= N <=10000000
+ 1<= y < x <=N 
+Output Format
+For each test case, print the number of days Baba will take to reach at top of pole in separate line.
+Sample TestCase 1
+Input
+2
+6 2 10
+4 3 10
+Output
+2
+7
